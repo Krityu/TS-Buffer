@@ -11,6 +11,7 @@
 "SccLocalPath" = "8:"
 "SccAuxPath" = "8:"
 "SccProvider" = "8:"
+"BackwardsCompatibleGUIDGeneration" = "8:TRUE"
     "Hierarchy"
     {
         "Entry"
@@ -90,10 +91,10 @@
             "ComponentsUrl" = "8:"
                 "Items"
                 {
-                    "{EDC2488A-8267-493A-A98E-7D9C3B36CDF3}:.NETFramework,Version=v4.5"
+                    "{EDC2488A-8267-493A-A98E-7D9C3B36CDF3}:.NETFramework,Version=v4.0,Profile=Client,KB2468871"
                     {
-                    "Name" = "8:Microsoft .NET Framework 4.5 (x86 and x64)"
-                    "ProductCode" = "8:.NETFramework,Version=v4.5"
+                    "Name" = "8:Microsoft .NET Framework 4 Client Profile (x86 and x64) and Update for .NET Framework 4 (KB2468871)"
+                    "ProductCode" = "8:.NETFramework,Version=v4.0,Profile=Client,KB2468871"
                     }
                 }
             }
@@ -213,15 +214,15 @@
         {
         "Name" = "8:Microsoft Visual Studio"
         "ProductName" = "8:TS-Buffer"
-        "ProductCode" = "8:{78307512-AA0F-460C-8FC8-6461140F6451}"
-        "PackageCode" = "8:{5062017F-B5A2-4D4A-AE43-EFC4E96D2011}"
+        "ProductCode" = "8:{32112360-479F-4C97-BE56-481BB65723AB}"
+        "PackageCode" = "8:{AB00D553-9304-441F-A78D-7F2873C3DF06}"
         "UpgradeCode" = "8:{32144530-BDD3-4FB2-9E7A-FD256CBE5693}"
         "AspNetVersion" = "8:4.0.30319.0"
         "RestartWWWService" = "11:FALSE"
         "RemovePreviousVersions" = "11:TRUE"
         "DetectNewerInstalledVersion" = "11:TRUE"
         "InstallAllUsers" = "11:TRUE"
-        "ProductVersion" = "8:2.0.1"
+        "ProductVersion" = "8:2.0.4"
         "Manufacturer" = "8:Krityu - RoninsfromPS"
         "ARPHELPTELEPHONE" = "8:"
         "ARPHELPLINK" = "8:http://facebook.com/Krityu"
@@ -230,7 +231,7 @@
         "ARPCONTACT" = "8:Krityu - RoninsfromPS"
         "Keywords" = "8:"
         "ARPCOMMENTS" = "8:"
-        "ARPURLINFOABOUT" = "8:http://krityu.eu/tsbuffer"
+        "ARPURLINFOABOUT" = "8:http://krityu.eu/"
         "ARPPRODUCTICON" = "8:_1CE0AE00C6C540BD94D90A623E5F628D"
         "ARPIconIndex" = "3:0"
         "SearchPath" = "8:"
